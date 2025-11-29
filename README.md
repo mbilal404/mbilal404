@@ -1,6 +1,6 @@
 <!-- WORKING BLACK MINIMAL BANNER -->
 <p align="center">
-  <img src="https://github.com/mbilal404/mbilal404/blob/main/banner.png" width="180" style="border-radius:50;"/>
+  <img src="https://github.com/mbilal404/mbilal404/blob/main/banner.png" width="20%" height="20%" />
 </p>
 
 <!-- ANIMATED NAME -->
