@@ -5,7 +5,7 @@
 
 <!-- ANIMATED NAME -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=800&center=true&vCenter=true&width=650&lines=Muhammad+Bilal;Software+Engineer;Full+Stack+Developer;Mobile+App+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=800&center=true&vCenter=true&width=650&lines=Muhammad+Bilal;Software+Engineer;Full+Stack+Developer;" />
 </h1>
 
 <p align="center">
