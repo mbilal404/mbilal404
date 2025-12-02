@@ -5,7 +5,7 @@
 
 <!-- ANIMATED NAME -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=800&center=true&vCenter=true&width=650&lines=Muhammad+Bilal;Software+Engineer;Full+Stack+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=800&center=true&vCenter=true&width=650&lines=Muhammad+Bilal;Software+Engineer;Full+Stack+Developer;Cross-Platform+React+Native+Apps" />
 </h1>
 
 <p align="center">
@@ -14,9 +14,8 @@
 
 <p align="center">
   <a href="https://github.com/mbilal404">GitHub</a> •
-  <a href="https://linkedin.com">LinkedIn</a> •
-  <a href="https://twitter.com">Twitter</a> •
-  <a href="mailto:">Email</a>
+  <a href="https://linkedin.com](https://www.linkedin.com/in/m-bilal-b98210365/">LinkedIn</a> •
+  <a href="mbilalkhan0037@gmail.com">Email</a>
 </p>
 
 ---
@@ -28,8 +27,8 @@ beautiful, scalable and modern digital products.
 I enjoy:
 
 - Designing clean UI/UX  
-- Building full-stack apps  
-- Engineering smooth mobile experiences  
+- Building full-stack cross-platform React Native apps
+- Engineering smooth cross-platform experiences  
 - Solving real-world problems  
 
 ---
