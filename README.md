@@ -68,7 +68,6 @@ I enjoy:
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mbilal404&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mbilal404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbilal404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
@@ -83,12 +82,7 @@ I enjoy:
 
 ---
 
-## 🚀 Visitors Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{mbilal404}/count.svg" />
-</div>
 
----
 
 <p align="center">
   ⭐ <strong>Thanks for visiting — Feel free to explore my repositories!</strong> ⭐
