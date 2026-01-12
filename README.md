@@ -8,7 +8,7 @@
 
 <!-- ANIMATED NAME -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=800&center=true&vCenter=true&width=700&lines=Muhammad+Bilal;Software+Engineer;Full+Stack+Developer;React+Native+Expert;Cross-Platform+Apps+Engineer" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=800&center=true&vCenter=true&width=700&lines=Muhammad+Bilal;Software+Engineer;Full+Stack+Developer;React+Native+Expert;Cross-Platform+Apps+Engineer" /> -->
 </h1>
 
 <p align="center">
