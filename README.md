@@ -18,7 +18,7 @@
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/mbilal404">GitHub</a> •
-  <a href="https://www.linkedin.com/in/m-bilal-b98210365/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/muhammadbilal404/">LinkedIn</a> •
   <a href="mailto:mbilalbangash404@gmail.com">Email</a>
 </p>
 
