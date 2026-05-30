@@ -37,7 +37,7 @@ I enjoy:
 
 ---
 
-Tech Stack
+## Tech Stack ##
 
 ##   Frontend
 <div align="center">
