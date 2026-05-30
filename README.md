@@ -24,7 +24,7 @@
 
 ---
 
-## 🧑‍💼 About Me
+About Me
 I’m **Muhammad Bilal**, a passionate **Software Engineer** crafting  
 beautiful, scalable, and modern digital products.
 
@@ -37,33 +37,33 @@ I enjoy:
 
 ---
 
-## 🧰 Tech Stack
+Tech Stack
 
-### ⭐ Frontend
+  Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </div>
 
-### ⭐ Mobile Development
+  Mobile Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white" />
 </div>
 
-### ⭐ Backend & Cloud
+  Backend & Cloud
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
   <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </div>
 
-### ⭐ Tools & Technologies
+  Tools & Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,ts,redux" />
 </div>
 
 ---
 
-## 🎨 UI-Styled GitHub Cards
+  UI-Styled GitHub Cards
 <div align="center">
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mbilal404&theme=tokyonight&hide_border=true&background=0D1117" />
@@ -75,7 +75,7 @@ I enjoy:
 
 ---
 
-## 📊 Contribution Activity Graph
+Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbilal404&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
@@ -85,7 +85,7 @@ I enjoy:
 
 
 <p align="center">
-  ⭐ <strong>Thanks for visiting — Feel free to explore my repositories!</strong> ⭐
+  <strong>Thanks for visiting — Feel free to explore my repositories!</strong> 
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=170&section=footer"/>
